@@ -2,7 +2,7 @@ body{background-color:black; color: azure;}
 h1{color:rgba(255, 208, 0, 0.849);padding: 20;}
 h2{color:rgb(255, 251, 0);background-color:rgb(128, 128, 128);padding: 10;}
 p{color:rgb(255, 255, 255);font-size: larger;}
-tr{background-color:rgb(168, 168, 168);font-color:rgb(255, 255, 255)}
+tr{font-color:rgb(255, 255, 255)}
 a{color: azure;}
 img{align-self: center;}
-table{ border:5; cellpadding :5; border-color:red; align:"center"; text-align: center;}
+.opac{backgorund-color:rgb(168, 168, 168)}

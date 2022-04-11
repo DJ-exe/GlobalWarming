@@ -1,0 +1,1 @@
+edit the reference in index html for 4 images
